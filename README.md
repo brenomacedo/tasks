@@ -7,7 +7,6 @@
 
 <h1 align="center">Some screenshots:</h1>
 <p align="center">
-    <img src="">
     <img src="https://i.imgur.com/qu9Ty2d.png" width="48%">
     <img src="https://i.imgur.com/vfJtk7X.png" width="48%">
 </p>
