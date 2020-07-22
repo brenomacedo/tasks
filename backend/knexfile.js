@@ -3,7 +3,7 @@
 module.exports = {
     client: 'postgresql',
     connection: {
-      database: 'tasks2',
+      database: 'tasks',
       user:     'postgres',
       password: '123'
     },
